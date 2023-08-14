@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.sign-up {
+  border-style: none;
+  font-size: 3rem;
+  color: white;
+  background-color: blue;
+  border-radius: 8px;
+  padding: 5px 40px;
+}
+
+.sign-up:hover {
+  background-color: darkblue;
+}
