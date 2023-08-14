@@ -9,11 +9,15 @@ body {
   border-style: none;
   font-size: 3rem;
   color: white;
-  background-color: blue;
+  background-color: #57a6f9;
   border-radius: 8px;
   padding: 5px 40px;
 }
 
 .sign-up:hover {
-  background-color: darkblue;
+  background-color: #3571af;
+}
+
+.sign-up:hover:active {
+  outline: #57a6f9 solid 50px;
 }
